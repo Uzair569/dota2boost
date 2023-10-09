@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <h1>Boost With Dota2mmrBoost</h1>
